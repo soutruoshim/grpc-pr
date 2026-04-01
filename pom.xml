@@ -41,7 +41,7 @@
 		<protoc.version>3.25.1</protoc.version>
 		<protobuf.maven.plugin.version>0.6.1</protobuf.maven.plugin.version>
 		<os.maven.plugin.version>1.7.1</os.maven.plugin.version>
-		<grpc.spring.version>3.5.13</grpc.spring.version>
+		<grpc.spring.version>3.1.0.RELEASE</grpc.spring.version>
 		<protobuf.java.util.version>3.25.4</protobuf.java.util.version>
 	</properties>
 	<dependencyManagement>
